@@ -1,5 +1,7 @@
 # Tuist Bitrise Step
 
+[![Build Status](https://app.bitrise.io/app/ee5577db2026e046/status.svg?token=WiO8Y-06-wfId4vAmemCqQ&branch=main)](https://app.bitrise.io/app/ee5577db2026e046)
+
 Run Tuist from Bitrise's CI environment
 
 ## How to use this Step
